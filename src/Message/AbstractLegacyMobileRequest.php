@@ -11,8 +11,8 @@ abstract class AbstractLegacyMobileRequest extends AbstractLegacyRequest
 
     protected $endpoints = array(
         'sandbox'    => array(
-            'trade' => 'http://222.66.233.198:8080/gateway/merchant/trade',
-            'query' => 'http://222.66.233.198:8080/gateway/merchant/query',
+            'trade' => 'http://202.101.25.178:8080/gateway/merchant/trade',
+            'query' => 'http://202.101.25.178:8080/gateway/merchant/query',
         ),
         'production' => array(
             'trade' => 'https://mgate.unionpay.com/gateway/merchant/trade',
