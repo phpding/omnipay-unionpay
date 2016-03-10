@@ -1,5 +1,5 @@
 {
-  "name": "lokielse/omnipay-unionpay",
+  "name": "phpding/omnipay-unionpay",
   "type": "library",
   "description": "UnionPay gateway for Omnipay payment processing library",
   "keywords": [
@@ -13,7 +13,7 @@
     "purchase",
     "银联"
   ],
-  "homepage": "https://github.com/lokielse/omnipay-unionpay",
+  "homepage": "https://github.com/phpding/omnipay-unionpay.git",
   "license": "MIT",
   "authors": [
     {
